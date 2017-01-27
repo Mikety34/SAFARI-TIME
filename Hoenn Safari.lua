@@ -14,8 +14,8 @@ catchShiny = true		--set to true if you want to catch encountered shiny's else f
 
 singleCatch = false		--Set to true if you want to catch only 1 Pokes and set multipleCatch to false
 	
-toHunt = "Torchic"		--Set/Change the name of Pokemon you want to Catch     
-huntMap = "Zone 6"		--Set/Change the Map Area of the Pokemon    --OPTIONS: "Zone 1", "Zone 2", "Zone 3", "Zone 4", "Zone 5", "Zone 6"
+toHunt = "Riolu"		--Set/Change the name of Pokemon you want to Catch     
+huntMap = "Zone 3"		--Set/Change the Map Area of the Pokemon    --OPTIONS: "Zone 1", "Zone 2", "Zone 3", "Zone 4", "Zone 5", "Zone 6"
 
 
 
@@ -97,7 +97,7 @@ sleepmove = "None"        --Set/Change the name of the sleep move --If you have 
 
     -- Set/Change the name of the mount you want to use on LAND
 
-mount = "Arcanine Mount"
+mount = "Absol Mount"
 
     -- Set/Change to true if you want to use mount,else false
 
